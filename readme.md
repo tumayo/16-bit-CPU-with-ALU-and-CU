@@ -1,2 +1,2 @@
 
-![alt tag] (CPU.png)
+![alt text] ()
