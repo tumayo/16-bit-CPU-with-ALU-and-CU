@@ -1,2 +1,2 @@
 
-![alt tag] (https://github.com/tumayo/16-bit-CPU-with-ALU-and-CU/blob/master/CPU.png)
+![alt tag] (CPU.png)
