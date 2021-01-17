@@ -17,6 +17,6 @@ Instructions for Pre-Execution\
     3. Load the text file named “data” into the first RAM inside the data memory by using Logisim’s “Load Image” option.\
     4. Reset the PC, register file and the multiplication registers in ALU by clicking the “Reset” button at the bottom left.\
     5. Set $5 to “4”. This is the base address of B [].\
-    6. From the “Simulate” menu at the top, choose “Ticks Enabled” to initiate the simulation.\
+    6. From the “Simulate” menu at the top, choose “Ticks Enabled” to initiate the simulation.
 
 
